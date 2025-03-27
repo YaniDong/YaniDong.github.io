@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Wuhan China"
 site_theme               : "default"
-title                    : "Yani Dong / Personal Homepage "
+title                    : "Yani Dong's Personal Homepage "
 title_separator          : "-"
 name                     : &name "Yani Dong"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "1.png"
   name             : "Yani Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #""
   location         : "Wuhan China"
   employer         : "Huazhong Agricultural University"
   uri              : # URL
