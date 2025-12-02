@@ -2,13 +2,12 @@
 title: "Spatial Spillover Effects of Digital Infrastructure on Food System Resilience: An Analysis Incorporating Threshold Effects and Spatial Decay Boundaries"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2025-04-24-paper-title-number-1
+excerpt: 'This paper reveals the impact of digital infrastructure on grain system resilience and provides a new perspective for scientifically evaluating the spatial spillover effects of digital infrastructure.'
 date: 2025-04-24
 venue: 'Foods'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Dong Y, Qi C, Gui C, et al. Spatial Spillover Effects of Digital Infrastructure on Food System Resilience: An Analysis Incorporating Threshold Effects and Spatial Decay Boundaries[J]. Foods, 2025, 14(9): 1484.'
+paperurl: 'http://academicpages.github.io/files/3.pdf'
+citation: 'Dong, Y., Qi, C., Gui, C., & Yang, Y. (2025). Spatial Spillover Effects of Digital Infrastructure on Food System Resilience: An Analysis Incorporating Threshold Effects and Spatial Decay Boundaries. Foods, 14(9), 1484.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
