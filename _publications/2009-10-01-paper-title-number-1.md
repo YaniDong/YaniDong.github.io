@@ -6,7 +6,7 @@ permalink: /publication/2025-04-24-paper-title-number-1
 excerpt: 'This paper reveals the impact of digital infrastructure on grain system resilience and provides a new perspective for scientifically evaluating the spatial spillover effects of digital infrastructure.'
 date: 2025-04-24
 venue: 'Foods'
-paperurl: 'http://academicpages.github.io/files/3.pdf'
+paperurl: '(http://YaniDong.github.io/files/3.pdf)'
 citation: 'Dong, Y., Qi, C., Gui, C., & Yang, Y. (2025). Spatial Spillover Effects of Digital Infrastructure on Food System Resilience: An Analysis Incorporating Threshold Effects and Spatial Decay Boundaries. Foods, 14(9), 1484.'
 ---
 
